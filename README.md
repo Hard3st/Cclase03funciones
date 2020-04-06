@@ -1,4 +1,5 @@
-# Cclase03funciones
+# Rodriguez Franco
+# Tutorial de git + Github
 Programación en C ,Clase 03  funciones
 
   -1 crear una carpeta
